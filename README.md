@@ -8,6 +8,4 @@ Masih Dalam Tahap Pengembangan dan Akan Dikembangkan Lebih baik Kedepannya
 
 
 Project Contributors
-
-[Fabian Permadi]
-https://github.com/withfabian/
+- [Fabian Permadi](https://github.com/withfabian/)
